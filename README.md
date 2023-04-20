@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/mui2108"><img src="https://api.daily.dev/devcards/63c6872c0b894ffe8b801a0007afe565.png?r=moc" width="400" alt="PANUPONG INTARING's Dev Card"/></a>
+
 <!--
 **Mui2108/Mui2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
